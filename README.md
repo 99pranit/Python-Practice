@@ -39,6 +39,11 @@ This repository includes solutions and examples for the following topics:
 8. **Backtracking**  
    - Classic problems like N-Queens, Sudoku solver, and permutations  
    - Subset and combination generation
+
+9. **Bit Manupulation**
+   - Basics: AND, OR, XOR, NOT, shifts (left, right)
+   - Count of set bits (Hamming Weight)
+   - Checking power of two
   
  ## 📖 Resources
    - Kunal Kushwaha
