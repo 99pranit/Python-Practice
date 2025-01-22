@@ -7,7 +7,8 @@ Welcome to my **Python-Practice** repository! 🎉 This repository contains a co
 This repository includes solutions and examples for the following topics:
 
 1. **Array**  
-   - Basic operations (insertion, deletion, traversal)  
+   - Basic operations (insertion, deletion, traversal)
+   - 2 Pointer approach
    - Sliding window techniques  
    - Prefix sums and optimization problems  
 
