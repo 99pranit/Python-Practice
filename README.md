@@ -15,7 +15,12 @@ This repository includes solutions and examples for the following topics:
 2. **String**  
    - String manipulation techniques  
    - Palindrome-related problems  
-   - Pattern matching algorithms  
+   - Pattern matching algorithms
+  
+4. ### 6. **Stack**  
+   - Implementation using arrays  
+   - Applications: balancing parentheses, postfix evaluation  
+   - Problems: Car Fleet, Daily Temperature
 
 3. **Recursion**  
    - Understanding base and recursive cases  
