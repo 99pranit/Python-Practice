@@ -17,7 +17,7 @@ This repository includes solutions and examples for the following topics:
    - Palindrome-related problems  
    - Pattern matching algorithms
   
-4. ### 6. **Stack**  
+4. **Stack**  
    - Implementation using arrays  
    - Applications: balancing parentheses, postfix evaluation  
    - Problems: Car Fleet, Daily Temperature
